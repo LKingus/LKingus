@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there :D a couple of things about me:
+
+- 👨‍🎓 Bachelor degree in CS at [University of Milano - Bicocca](https://en.unimib.it/)
+- 👨‍💻 At the moment working for [NTT Data Italia](https://it.nttdata.com/) as a System Admin
+- 😎 Main interests are programming, manga, anime, making and listening to music, videogames (making them too 👀)
+- ⚡ Learnt a lot by myself though (in CS terms mostly 🤓) but who doesn't in this field
 
 <!--
 **LKingus/LKingus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
