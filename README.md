@@ -1,7 +1,7 @@
 ### Hello there :D a couple of things about me:
 
 - 👨‍🎓 Bachelor degree in CS at [University of Milano - Bicocca](https://en.unimib.it/)
-- 👨‍💻 At the moment working for [NTT Data Italia](https://it.nttdata.com/) as a System Admin
+- 👨‍💻 At the moment working for [NTT Data Italia](https://it.nttdata.com/) as a System Engineer
 - 😎 Main interests are programming, manga, anime, making and listening to music, videogames (making them too 👀)
 - ⚡ Learnt a lot by myself though (in CS terms mostly 🤓) but who doesn't in this field
 
